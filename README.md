@@ -20,8 +20,8 @@ Cuenta creada en otra asignatura anterior.
 
 ### 4. Beneficios de estudiantes de GitHub Education
 
-Para poder solicitar los beneficios, hay que aclarar que somos estudiantes y además, especificar nuestro centro de estudio. A continuación, hay que aportar una documentación que identifique tu estudio duarante este año donde se justifique tu nombre, el centro del estudio y alguna fecha actual. 
-Como no habia solicitado antes, tras su finalización, llegó a a la bandeja de correos un aviso de que llegará una respuesta desde el día de su realización hasta un máximo de 10 días por si la documentación aportada no es válida.
+Para poder solicitar los beneficios, hay que aclarar que somos estudiantes y además, especificar nuestro centro de estudio. A continuación, hay que aportar una documentación que identifique tu estudio durante este año donde se justifique tu nombre, el centro de estudio y alguna fecha actual. 
+Como no lo había solicitado antes, tras su finalización, llegó a a la bandeja de correos un aviso de que llegará una respuesta desde el día de su realización hasta un máximo de 10 días por si la documentación aportada no es válida.
 
 ### 5. GitHub classroom
 
@@ -29,8 +29,32 @@ Mi cuenta de github ya estaba dado de alta por otra asignatura de la carrera, po
 
 ### 6. Asignación de classroom
 
-Al entrar en el enlace para aceptar la asiganción del classroom, aparecen los nombres de los alumnos matriculados para, una vez encontrado el mio, se debe de autentificar con las credenciales y posteriormente, dan el enlace del repositorio asociado.
+Al entrar en el enlace para aceptar la asiganción del classroom, aparecen los nombres de los alumnos matriculados para, una vez encontrado el mio, se debe de autentificar con las credenciales y posteriormente, dar el enlace del repositorio asociado y realizar este mismo informe en él.
 
 ### 7 y 8. Tutoriales acerca de GitHub, Markdowns, Pages
 
-Para la realización de este informe, se ha necesitado la revisión y consulta de estos tutoriales ya sea para la inicialización y la funcionalidad de pages y el formato de Markdowns.
+Para la realización de este informe, he necesitado la revisión y consulta de estos tutoriales ya sea para la inicialización y la funcionalidad de pages y el formato de Markdowns.
+
+## Configuración de la máquina virtual en el IaaS
+
+### Paso 1
+
+Para poder trabajar sobre la máquina virtual sin estar conectado en la red de la Universidad de La Laguna hace falta configurar la VPN. Al haber cursado la asignatura IB (informátoca básica) durante el primer año de carrera, ya dispongo de una aplicación para realizar ese trabajo por lo que no nesesité realizar pasos ni consultar la documentación de configuración de la VPN de la ULL. 
+
+A continuación, usando la VPN de la ULL, accedemos a 'iaas.ull.es' (Servicio IaaS de la ULL) ingresando nuestras credenciales institucionales para poder tomar una MV (máquina virtual). Debido al contratiempo ocurrido donde algunas máquinas virtuales se corrompian por diversos motivos, podemos seleccionar hasta dos en el caso de no haber comenzado la práctica o simplemente tomar una nueva en el caso de ya disponer una pero sin estar en funcionamiento. Para saber que ya está tomada, debería de aparecer algo como 'DSI-30', en mi caso aparece 'DSI-96'.
+
+### Paso 2
+
+
+
+### Paso 3
+
+
+### Paso 4
+
+### Paso 5
+
+### Paso 6
+
+### Paso 7
+
