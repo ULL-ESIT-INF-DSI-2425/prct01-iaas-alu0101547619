@@ -41,7 +41,7 @@ Para la realización de este informe, he necesitado la revisión y consulta de e
 
 Para poder trabajar sobre la máquina virtual sin estar conectado en la red de la Universidad de La Laguna hace falta configurar la VPN. Al haber cursado la asignatura IB (informátoca básica) durante el primer año de carrera, ya dispongo de una aplicación para realizar ese trabajo por lo que no nesesité realizar pasos ni consultar la documentación de configuración de la VPN de la ULL. 
 
-A continuación, usando la VPN de la ULL, accedemos a 'iaas.ull.es' (Servicio IaaS de la ULL) ingresando nuestras credenciales institucionales para poder tomar una MV (máquina virtual). Debido al contratiempo ocurrido donde algunas máquinas virtuales se corrompian por diversos motivos, podemos seleccionar hasta dos en el caso de no haber comenzado la práctica o simplemente tomar una nueva en el caso de ya disponer una pero sin estar en funcionamiento. Para saber que ya está tomada, debería de aparecer algo como 'DSI-30', en mi caso aparece 'DSI-96'.
+A continuación, usando la VPN de la ULL, accedemos a `iaas.ull.es` (Servicio IaaS de la ULL) ingresando nuestras credenciales institucionales para poder tomar una MV (máquina virtual). Debido al contratiempo ocurrido donde algunas máquinas virtuales se corrompian por diversos motivos, podemos seleccionar hasta dos en el caso de no haber comenzado la práctica o simplemente tomar una nueva en el caso de ya disponer una pero sin estar en funcionamiento. Para saber que ya está tomada, debería de aparecer algo como `DSI-30`, en mi caso aparece `DSI-96`.
 
 ### Paso 2
 
