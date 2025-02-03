@@ -29,7 +29,7 @@ Mi cuenta de github ya estaba dado de alta por otra asignatura de la carrera, po
 
 ### 6. Asignación de classroom
 
-Al entrar en el enlace para aceptar la asiganción del classroom, aparecen los nombres de los alumnos matriculados para, una vez encontrado el mio, se debe de autentifcar con las credenciales y posteriormente, dan el enlace del repositorio asociado.
+Al entrar en el enlace para aceptar la asiganción del classroom, aparecen los nombres de los alumnos matriculados para, una vez encontrado el mio, se debe de autentificar con las credenciales y posteriormente, dan el enlace del repositorio asociado.
 
 ### 7 y 8. Tutoriales acerca de GitHub, Markdowns, Pages
 
