@@ -112,4 +112,14 @@ Tras esto, configuramos nuestro nombre y nuestro correo:
 ![iaas](./imagen3.PNG)
 
 ### Paso 2
+Para cambiar el promt de la terminal para que este se cambie en base a la dirección del repositorio donde estemos hace falta descargar un script y agregar mediante vi dos lineas `PS1='\[\033]0;\u@\h:\w\007\]\[\033[0;34m\][\[\033[0;31m\]\w\[\033[0;32m\]($(git branch 2>/dev/null | sed -n "s/\* \(.*\)/\1/p"))\[\033[0;34m\]]$'` al final del propio fichero, volviendo a usar 'i' para insertar texto y 'x' para salir guardando. Se reinicia la terminal mediante `exec bash -l` para comprobar que ha funcionado.
+
+A continuación, para tener configurado el git en la maquina, se coge la key generada aleatoriamente mediante `cat ~/.ssh/id_sra.pub` puesto que es el tipo de clave que yo quise usar. Entro en mi cuenta de github y en el apartado indicado agrego la nuevla clave quedando de esta manera: 
+
+![iaas](./imagen4.PNG)
+
+donde la nueva máquina se identifica por su nombre `alu0101547619@ull.edu.es`.
+
+Para saber si se ha realizado corectamente los pasos anteriores, se realiza un `git-clone` del repositorio de la asignatura:
+
 
