@@ -12,7 +12,7 @@ Durante la asignatura deberemos de realizar varios trabajos en grupos de 3 perso
 
 ### 2. Encuesta sobre expectativas y conocimientos previos
 
-Encuesta realizada satisfactoriamente. La realización de la encuesta de forma anónima sirve al profesorado para el nivel y otros datos de interés del alumano matriculado en la sigmatura.
+Encuesta realizada satisfactoriamente. La realización de la encuesta de forma anónima sirve al profesorado para el nivel y otros datos de interés del alumano matriculado en la signatura.
 
 ### 3. Cuenta instituacional de GitHub
 
