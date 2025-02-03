@@ -21,7 +21,7 @@ Cuenta creada en otra asignatura anterior.
 Para poder solicitar los beneficios, hay que aclarar que somos estudiantes y además, especificar nuestro centro de estudio. A continuación, hay que aportar una documentación que identifique tu estudio durante este año donde se justifique tu nombre, el centro de estudio y alguna fecha actual. 
 Como no lo había solicitado antes, tras su finalización, llegó a a la bandeja de correos un aviso de que llegará una respuesta desde el día de su realización hasta un máximo de 10 días por si la documentación aportada no es válida.
 
-![iaas](./aasss.PNG)
+![iaas](./classroom_benefits.PNG)
 
 ### 5. GitHub classroom
 
