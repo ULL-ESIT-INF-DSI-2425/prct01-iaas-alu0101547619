@@ -122,4 +122,12 @@ donde la nueva máquina se identifica por su nombre `alu0101547619@ull.edu.es`.
 
 Para saber si se ha realizado corectamente los pasos anteriores, se realiza un `git-clone` del repositorio de la asignatura:
 
+![iaas](./imagen5.PNG)
+
+### Paso 3
+
+Por último, se instalará los paquetes necesarios para trabajar con javascript, y por tanto, con typescript, que será el lenguaje que usaremos durante la asigntaura.
+
+Comandos usados: 
+
 
