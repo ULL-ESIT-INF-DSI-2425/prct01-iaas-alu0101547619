@@ -57,6 +57,21 @@ La primera vez que iniciemos, nuestro usuario es `usuario`, al igual que la cont
 
 ### Paso 3
 
+Para poder identificar la IP de la MV, hace falta instalarse unos paquetes necesarios para poder usar los comandos:
+```
+sudo apt install net-tools
+...
+ifconfig -a
+```
+Tras realizar dichos pasos, la IP de la MV es `10.6.131.179`. Ahora que tenemos la IP, podemos conectarnos remotamente usando SSH. En mi caso, como mi sistema operativo es window, el acceso remoto teng que hacerlo desde Visal Studio code mediante el comando `ssh usuario@10.6.131.179`. Para acceder finalmente, se ingresa el nomr¡bre de usuario que sigue siendo `usuario` y la nueva contraseña.
+```
+usuario@ubuntu:~$ cat /etc/hostname
+ubuntu
+usuario@ubuntu:~$ sudo vi /etc/hostname
+usuario@ubuntu:~$ cat /etc/hostname
+iaas-dsi
+```
+Estos ultimos comandos se usaron para cambiar el nombre del host de ubuntu a iaas-dsi. Para poder cambiar el fichero que se encuentra en `/etc/hostname`, se usó vi mediante varios comandos. como i (insert) y x para salir y guardar. El comando cat para imprimir por la terminal el contenido de dicho fichero.
 
 ### Paso 4
 
