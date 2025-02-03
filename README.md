@@ -49,7 +49,11 @@ A continuación, usando la VPN de la ULL, accedemos a `iaas.ull.es` (Servicio Ia
 
 ### Paso 2
 
+Una vez que la MV aparece `en ejecución`, inicimamos la consola VNC para configurar algunos aspectos y datos del mismo.
 
+La primera vez que iniciemos, nuestro usuario es `usuario`, al igual que la contraseña. Posteriormente, te pedira una contraseña nueva propia que esta se guardará para cada MV. Tras finalizar, se podrá usar la consola de la MV perfectamente.
+
+![iaas](./imagen1.PNG)
 
 ### Paso 3
 
