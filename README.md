@@ -99,7 +99,16 @@ Igualmente, no puedo confugrar la maquina local por tener windows como sistemaop
 
 ### Paso 1
 
-
+Para instalar git en la máquina, usamos el siguiente comando:
+```
+usuario@iaas-dsi:~$ sudo apt install git
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+git is already the newest version (1:2.25.1-1ubuntu3.2).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+```
+Tras esto, configuramos nuestro nombre y nuestro correo:
 
 ### Paso 2
 
