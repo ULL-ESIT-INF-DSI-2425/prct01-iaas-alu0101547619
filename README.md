@@ -43,6 +43,8 @@ Para poder trabajar sobre la máquina virtual sin estar conectado en la red de l
 
 A continuación, usando la VPN de la ULL, accedemos a `iaas.ull.es` (Servicio IaaS de la ULL) ingresando nuestras credenciales institucionales para poder tomar una MV (máquina virtual). Debido al contratiempo ocurrido donde algunas máquinas virtuales se corrompian por diversos motivos, podemos seleccionar hasta dos en el caso de no haber comenzado la práctica o simplemente tomar una nueva en el caso de ya disponer una pero sin estar en funcionamiento. Para saber que ya está tomada, debería de aparecer algo como `DSI-30`, en mi caso aparece `DSI-96`.
 
+/assets/images/iaas.png
+
 ### Paso 2
 
 
