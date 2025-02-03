@@ -93,7 +93,7 @@ Como resultado, en lugar de usuario@ubuntu, se verá `usuario@iaas-dsi`. Para qu
 Como no dispondo de Linux, no puedo acceder al fichero en mi máquina local para acceder a la MV sin necesidad de poner la IP de la misma.
 Posteriormente, se configura la clave pública-privada, puesto que no esta hecho. Esto lo podemos saber gracias al comando `cat .ssh/id_xxxxxxx.pub ` y su respuesta `cat: .ssh/id_xxxxxxx.pub: No such file or directory`.
 
-Igualmente, no puedo confugrar la maquina local por tener windows como sistemaopreartivo con lo que no puedo realizar los comabios de acceso al ssh para cambiar el nombre de usuaro o quitar la obligatoriedad de poner la contraseña cada vez que se haga ssh.
+Igualmente, no puedo configurar la maquina local por tener windows como sistema operativo con lo que no puedo realizar los cambios de acceso al ssh para cambiar el nombre de usuario o quitar la obligatoriedad de poner la contraseña cada vez que se haga ssh.
 
 ## Instalación de git y Node.js en la máquina virtual del IaaS
 
@@ -109,6 +109,7 @@ git is already the newest version (1:2.25.1-1ubuntu3.2).
 0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
 ```
 Tras esto, configuramos nuestro nombre y nuestro correo:
+![iaas](./imagen3.PNG)
 
 ### Paso 2
 
