@@ -16,7 +16,7 @@ Encuesta realizada satisfactoriamente. La realización de la encuesta de forma a
 
 ### 3. Cuenta instituacional de GitHub
 
-Cuenta creada en otra asignatura posterior.
+Cuenta creada en otra asignatura anterior.
 
 ### 4. Beneficios de estudiantes de GitHub Education
 
