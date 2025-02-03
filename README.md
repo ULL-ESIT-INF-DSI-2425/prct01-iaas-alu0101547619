@@ -86,13 +86,20 @@ usuario@ubuntu:~$ cat /etc/hosts
 127.0.0.1	localhost
 127.0.1.1	iaas-dsi
 ```
-Como resultado, en lugar de usuario@ubuntu, se verá `usuario@iaas-dsi`. Para que aparezca, es necesario reiniciar la MV mediante 
+Como resultado, en lugar de usuario@ubuntu, se verá `usuario@iaas-dsi`. Para que aparezca, es necesario reiniciar la MV mediante el comando `sudo reboot`.
 
 ### Paso 4
 
-### Paso 5
+Como no dispondo de Linux, no puedo acceder al fichero en mi máquina local para acceder a la MV sin necesidad de poner la IP de la misma.
+Posteriormente, se configura la clave pública-privada, puesto que no esta hecho. Esto lo podemos saber gracias al comando `cat .ssh/id_xxxxxxx.pub ` y su respuesta `cat: .ssh/id_xxxxxxx.pub: No such file or directory`.
 
-### Paso 6
+Igualmente, no puedo confugrar la maquina local por tener windows como sistemaopreartivo con lo que no puedo realizar los comabios de acceso al ssh para cambiar el nombre de usuaro o quitar la obligatoriedad de poner la contraseña cada vez que se haga ssh.
 
-### Paso 7
+## Instalación de git y Node.js en la máquina virtual del IaaS
+
+### Paso 1
+
+
+
+### Paso 2
 
