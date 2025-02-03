@@ -130,4 +130,4 @@ Por último, se instalará los paquetes necesarios para trabajar con javascript,
 
 Comandos usados: 
 
-
+![iaas](./imagen6.PNG)
