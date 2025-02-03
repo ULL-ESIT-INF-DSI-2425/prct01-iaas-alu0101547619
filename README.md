@@ -71,7 +71,22 @@ usuario@ubuntu:~$ sudo vi /etc/hostname
 usuario@ubuntu:~$ cat /etc/hostname
 iaas-dsi
 ```
-Estos ultimos comandos se usaron para cambiar el nombre del host de ubuntu a iaas-dsi. Para poder cambiar el fichero que se encuentra en `/etc/hostname`, se usó vi mediante varios comandos. como i (insert) y x para salir y guardar. El comando cat para imprimir por la terminal el contenido de dicho fichero.
+Estos ultimos comandos se usaron para cambiar el nombre del host de ubuntu a iaas-dsi. Para poder cambiar el fichero que se encuentra en `/etc/hostname`, se usó vi mediante varios comandos. como 'i' (insert) y 'x' para salir y guardar. El comando cat para imprimir por la terminal el contenido de dicho fichero.
+
+Usamos vi también para cambiar el nombre del usuario de la MV desde el fichero /etc/hosts usando: 
+```
+usuario@ubuntu:~$ cat /etc/hosts
+127.0.0.1	localhost
+127.0.1.1	ubuntu
+...
+
+usuario@ubuntu:~$ sudo vi /etc/hosts
+
+usuario@ubuntu:~$ cat /etc/hosts
+127.0.0.1	localhost
+127.0.1.1	iaas-dsi
+```
+Como resultado, en lugar de usuario@ubuntu, se verá `usuario@iaas-dsi`. Para que aparezca, es necesario reiniciar la MV mediante 
 
 ### Paso 4
 
