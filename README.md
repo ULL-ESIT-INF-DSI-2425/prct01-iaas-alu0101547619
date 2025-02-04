@@ -1,5 +1,11 @@
 
 # Práctica 1: Configuración de máquina virtual en el IaaS
+
+# Índice
+1. [Tareas previas](## Tareas previas)
+2. [Configuración de la máquina virtual en el IaaS](## Configuración de la máquina virtual en el IaaS)
+3. [Instalación de git y Node.js en la máquina virtual del IaaS](## Instalación de git y Node.js en la máquina virtual del IaaS)
+
 ## Tareas previas
 
 Para comenzar con la práctica, realizé unos pasos previos para poder configurar satisfactoriamente la máquina virtual de la asignatura.
